@@ -2,7 +2,6 @@
 
 Imdb Top 250 is an API created with Fastapi and Beautifulsoup 4. It crawls the data from [imdb](https://www.imdb.com/chart/top/).
 
-[LIVE](http://34.70.181.65/)
 
 ## Installation
 
